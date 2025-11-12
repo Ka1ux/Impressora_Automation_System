@@ -130,15 +130,7 @@ gcc tests/test_printer.c -o test_printer.exe
 ```
 
 ---
-
-## 🧑‍💻 Autor
-**Kauá (Ka1ux)**  
-Estudante de Engenharia da Computação | UNASP / Cruzeiro do Sul  
-Apaixonado por IA, automação e integração de hardware com software.  
-
 - GitHub: [Ka1ux](https://github.com/Ka1ux)
-- LinkedIn: [linkedin.com/in/ka1ux](https://linkedin.com/in/ka1ux)
-
 ---
 
 ## 📝 Licença
